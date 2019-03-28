@@ -1,0 +1,4 @@
+POST   /signup
+GET     /users/{user_id}
+PATCH /users/{user_id}
+POST /close
